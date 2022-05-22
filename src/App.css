@@ -1,0 +1,48 @@
+.container {
+  width: 50%;
+  height: 350px;
+  margin: auto;
+  margin-top: 20px;
+  
+}
+.yellow{
+  background-color: #ffa500;
+
+}
+.white{
+  background-color: #f5f5f5;
+}
+h1{
+  padding: 0px 30px 0px 30px;
+  
+}
+p{
+  font-weight: 600;
+}
+button{
+  margin: 0px 30px 0px 30px;
+  background-color: black;
+  color: white;
+  font-size: 22px;
+
+}
+.header,.footer{
+  padding: 0px 30px 0px 30px;
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-between;
+
+}
+.img{
+  width: 60px;
+  margin-top: 10px;
+}
+.arrow{
+  width: 70px;
+  font-size: 70px;
+  margin-top: -30px;
+  
+}
+
+
+
